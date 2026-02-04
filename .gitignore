@@ -1,0 +1,4 @@
+node_modules/\n.next/\n.env*
+.vercel
+.next
+node_modules
